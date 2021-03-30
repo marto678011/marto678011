@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @marto678011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-marto678011/marto678011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OPCION 2", AXN
 http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=axn&f=.m3u8
