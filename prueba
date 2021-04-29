@@ -5,3 +5,7 @@ https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/yfbm3.m3u8?s=g56vi_2JiOEzQYUiijyd
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/zfwban4sppn0.m3u8?s=7VAHOpA2EZ9BBvNDcL8Glg&e=1619721991
 #EXTINF:-1 tvg-id="sony"
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/oc2v2i6j.m3u8?s=d8Y-YUshp4u8mEPfl26J-g&e=1619722417
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One HD (BACKUP)" tvg-logo="http://77.68.73.254/bbcone.jpg" group-title="UK FREE TO AIR TV",BBC One HD (BACKUP)
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/zfwban4sppn0.m3u8?s=7VAHOpA2EZ9BBvNDcL8Glg&e=1619721991
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two UHD" tvg-logo="http://77.68.73.254/bbctwo.jpg" group-title="UK FREE TO AIR TV",BBC Two UHD
+http://152.89.62.111:8080/james2/james2/31033
