@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One UHD" tvg-logo="http://77.68.73.254/bbcone.jpg" group-title="UK FREE TO AIR TV",BBC One UHD
+#EXTINF:-1 tvg-id="TLC" tvg-name="BBC One UHD" tvg-logo="http://77.68.73.254/bbcone.jpg" group-title="UK FREE TO AIR TV",BBC One UHD
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/yfbm3.m3u8?s=g56vi_2JiOEzQYUiijyd-w&e=1619719553
 #EXTINF:-1 tvg-id="AXN"
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/l051rl.m3u8?s=6N0KjUZNTPbHE19Waez_8w&e=1619806955
@@ -7,8 +7,8 @@ https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/l051rl.m3u8?s=6N0KjUZNTPbHE19Waez
 https://cdn14.esp-cdn.xyz/e/e_sur_c.html?.m3u8?1619786704
 #EXTINF:-1 tvg-id="CINECANAL"
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/ymv0a1aobkxuf.m3u8?s=AK3Di6xGrfIY0Dq4oNUGjQ&e=1619808559
-#EXTINF:-1 group-title="Canales Chile", C13 HD
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-id="CINEMAX"
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/ztv7sh.m3u8?s=bSkVMZXXdbe2LjXhId_6Tg&e=1619808850
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 group-title="Canales Chile", RecTV
