@@ -9,9 +9,9 @@ https://cdn14.esp-cdn.xyz/e/e_sur_c.html?.m3u8?1619786704
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/ymv0a1aobkxuf.m3u8?s=AK3Di6xGrfIY0Dq4oNUGjQ&e=1619808559
 #EXTINF:-1 tvg-id="CINEMAX"
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/ztv7sh.m3u8?s=bSkVMZXXdbe2LjXhId_6Tg&e=1619808850
-#EXTINF:-1 group-title="Canales Chile", C13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1 group-title="Canales Chile", RecTV
-http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR"
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/inkizfn6wve8oc.m3u8?s=ggwszM6tPcaAEVgP-BqsnA&e=1619809737
+#EXTINF:-1 tvg-id="DISNEY JR. OPC2"
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/inkizfn6wve8oc.m3u8?s=gjKS0wO1IjnjHjGt9zp8AQ&e=1619809912
 
 
