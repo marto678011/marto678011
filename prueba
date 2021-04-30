@@ -2,15 +2,17 @@
 
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One UHD" tvg-logo="http://77.68.73.254/bbcone.jpg" group-title="UK FREE TO AIR TV",BBC One UHD
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/yfbm3.m3u8?s=g56vi_2JiOEzQYUiijyd-w&e=1619719553
+#EXTINF:-1 group-title="Canales Chile", TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:-1 group-title="Canales Chile", Mega HD
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1 group-title="Canales Chile", CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1 group-title="Canales Chile", C13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 group-title="Canales Chile", C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", RecTV
+http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
 
-#EXTINF:-1 tvg-id="animal planet"
-https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/zfwban4sppn0.m3u8?s=7VAHOpA2EZ9BBvNDcL8Glg&e=1619721991
 
-#EXTINF:-1 tvg-id="sony"
-https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/oc2v2i6j.m3u8?s=d8Y-YUshp4u8mEPfl26J-g&e=1619722417
-
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One HD (BACKUP)" tvg-logo="http://77.68.73.254/bbcone.jpg" group-title="UK FREE TO AIR TV",BBC One HD (BACKUP)
-https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/zfwban4sppn0.m3u8?s=7VAHOpA2EZ9BBvNDcL8Glg&e=1619721991
-
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two UHD" tvg-logo="http://77.68.73.254/bbctwo.jpg" group-title="UK FREE TO AIR TV",BBC Two UHD
-http://152.89.62.111:8080/james2/james2/31033
